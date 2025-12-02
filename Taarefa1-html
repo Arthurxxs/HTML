@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Minha Primeira Página HTML</title>
+    </head>
+    <body>
+        Bem-vindo à Minha Página!
+        Meu nome é <b>Arthur</b>
+        Nome da minha mãe: <b>Gabriela</b>
+        Nome do meu pai: <b>Marcos</b>
+        Nomes dos meus irmãos: <b>Pedro e Bryan</b>
+        Eu gosto de dormir
+        Eu não gosto de acordar
+        Minha música preferida é: <b>Die with a smile.</b>
+    </body>
+</html>
+

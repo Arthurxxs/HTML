@@ -1,0 +1,54 @@
+ <html>
+    <head>
+        <title>Escola</title>
+    </head>
+    <body>
+
+        <h1>Comunicado Oficial aos Alunos</h1>
+
+      <p>     
+          Prezados(as) alunos(as),
+      </p>
+
+      <p> 
+        Informamos que o Sistema Acadêmico passará por uma atualização programada no dia 15/12 (domingo), das 2h às 6h.
+        <br>
+      </p>
+       
+      <p> 
+        Durante esse período, o acesso ao portal do aluno e aos serviços relacionados estará temporariamente indisponível.<br>
+      </p>
+
+      <p> 
+        A atualização tem como objetivo melhorar a estabilidade da plataforma e oferecer uma navegação mais rápida e segura.<br>
+      </p>
+
+      <p>
+        Recomendamos que todos os alunos realizem consultas e solicitações 0necessárias antes do início da manutenção.<br>
+
+      </p>
+
+            <ol>
+
+              <li>Em caso de dúvidas, nossa equipe de suporte está disponível pelo e-mail: suporte@instituicao.com</li><br>
+              <li>ou pelo WhatsApp: (00) 90000-0000.</li>
+            </ol> 
+             <br>
+
+             <p>
+              Para acessar seu e-mail institucional, utilize o link abaixo:<br>
+               <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+                    Gmail
+               </a>
+             </p>
+
+                    
+                  <i>Agradecemos a compreensão.
+
+                  </i><br>
+
+              <b>Coordenação Acadêmica<br>
+              Instituição de Ensino</b>
+
+    </body>
+</html>
